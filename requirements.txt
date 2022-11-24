@@ -1,7 +1,7 @@
-fastapi~=0.87.0
+fastapi
 pydantic
-starlette~=0.21.0
-easyocr~=1.6.2
-opencv-python~=4.6.0.66
-numpy~=1.23.1
-matplotlib~=3.5.1
+starlette
+easyocr
+opencv-python
+numpy
+matplotlib
